@@ -8,5 +8,6 @@ built with:
 
 Usage:
 navigate to the location of the scripts in your command terminal and run the registration bot by
-typing `python [script_name].py [arguments]` with the appropriate arguments.
-you can use the `--help` argument for additional information on what arguments can or must be specified.
+typing
+`python [script_name].py [arguments]` with the appropriate arguments.
+You can use the `--help` argument for additional information on what arguments can or must be specified.
